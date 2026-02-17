@@ -2,19 +2,18 @@
 
 ## 🎓 About Me
 
-I'm a **Graduate Research Assistant** in the Department of Civil, Architectural and Environmental Engineering at **Missouri University of Science & Technology**, working under the guidance of **Dr. Bong-Chul Seo**. My research focuses on advancing hydrological modeling frameworks, particularly in the areas of distributed hydrological modeling, streamflow routing, and model calibration.
+I'm a **Graduate Research Assistant** in the Department of Civil, Architectural and Environmental Engineering at **Missouri University of Science & Technology**, working under the guidance of **Dr. Bong-Chul Seo**. My research focuses on advancing hydrological modeling frameworks, particularly in the areas of distributed hydrological modeling, channel routing, and model calibration.
 
-🔬 **Currently seeking PhD opportunities** in Water Resources Engineering, Hydrological Modeling, and Computational Hydrology.
+🔬 **Currently seeking PhD opportunities** in Water Resources Engineering, Hydrological Modeling, and Channel Routing.
 
 ---
 
 ## 🔬 Research Interests
 
 - **Hydrological Modeling** - Distributed watershed modeling, rainfall-runoff processes
-- **Streamflow Routing** - Channel routing algorithms, flowpath-level hydraulics
+- **Channel Routing** - Channel routing algorithms, flowpath-level hydraulics
 - **Data Assimilation** - Integration of observational data into hydrological models
 - **Model Calibration & Optimization** - Parameter estimation, uncertainty quantification
-- **Computational Hydrology** - High-performance computing, parallel processing
 - **Flood Forecasting** - Real-time prediction systems, early warning systems
 
 ---
@@ -23,20 +22,17 @@ I'm a **Graduate Research Assistant** in the Department of Civil, Architectural 
 
 ### Modified T-Route for NextGen Water Resources Framework
 
-I've developed significant modifications to the **T-Route (Tree-Based Channel Routing)** model as part of the **NextGen Water Resources Modeling Framework**:
+I am currently conducting a comprehensive evaluation of the channel routing module (**T-Route: Tree-Based Channel Routing**) and implementing data assimilation within the diffusive wave method as part of the **NextGen Water Resources Modeling Framework**. I have developed significant modifications to T-Route.
 
 **Key Contributions:**
 - ✅ Implemented **flowpath-level lateral flow support** for fine-scale routing
-- ✅ Developed **catchment file processing algorithms** for real-time model coupling
-- ✅ Enhanced **data assimilation capabilities** with direct gage-to-flowpath mapping
-- ✅ Created **unit scaling functions** for proper flow conversion across catchments
+- ✅ Enhanced data assimilation capabilities with direct gage-to-flowpath mapping
 - ✅ Integrated with **NextGen in a Box** for containerized deployment
 
 **Impact:** Enables higher spatial resolution routing, improved accuracy in streamflow predictions, and better integration with NOAA's operational forecasting systems.
 
 📄 **Related Repositories:**
-- [Modified T-Route](https://github.com/MSTHydroLab/T-Route)
-- [Modified ngen](https://github.com/MSTHydroLab/ngen)
+- [Modified T-Route](https://github.com/said-uzzaman/t-route-MST.git)
 
 ---
 
@@ -44,45 +40,22 @@ I've developed significant modifications to the **T-Route (Tree-Based Channel Ro
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat&logo=fortran&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ### Hydrological Modeling Tools
 - **T-Route** - Tree-based channel routing
 - **ngen** - NextGen Water Resources Modeling Framework
 - **HEC-HMS / HEC-RAS** - Hydrologic and hydraulic modeling
 - **SWAT** - Soil and Water Assessment Tool
-- **WRF-Hydro** - Weather Research and Forecasting Hydro model
-
-### Data Science & Analysis
-- **Pandas, NumPy, SciPy** - Data manipulation and scientific computing
-- **Matplotlib, Seaborn** - Data visualization
-- **SPOTPY** - Statistical Parameter Optimization Tool
-- **Xarray, NetCDF** - Multi-dimensional data handling
-- **GeoPandas, QGIS** - Geospatial analysis
+- **SRH-2D** - Sedimentation and River Hydraulics
+- **PCSWMM** - Personal Computer Storm Water Management Model
+  
 
 ### Software Development
 - **Git & GitHub** - Version control and collaboration
 - **Docker** - Containerization and deployment
-- **CI/CD** - Automated testing and deployment
 - **Linux/Unix** - System administration and scripting
 
-### High-Performance Computing
-- **Parallel Processing** - MPI, OpenMP
-- **Job Scheduling** - SLURM, PBS
-- **Cluster Computing** - Experience with HPC systems
-
----
-
-## 📊 GitHub Statistics
-
-![Saiduzzaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
 
 ## 📚 Selected Projects
 
