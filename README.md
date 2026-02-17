@@ -43,7 +43,7 @@ I am currently conducting a comprehensive evaluation of the channel routing modu
 ![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat&logo=fortran&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
-### Hydrological Modeling Tools
+### Modeling Tools
 - **T-Route** - Tree-based channel routing
 - **ngen** - NextGen Water Resources Modeling Framework
 - **HEC-HMS / HEC-RAS** - Hydrologic and hydraulic modeling
@@ -61,7 +61,7 @@ I am currently conducting a comprehensive evaluation of the channel routing modu
 ## 📫 How to Reach Me
 
 - 📧 **Email:** [msmg8@mst.edu](mailto:msmg8@mst.edu)
-- 💼 **LinkedIn:** [linkedin.com/in/saiduzzaman-mst](www.linkedin.com/in/saiduzzaman-mst))
+- 💼 **LinkedIn:** [linkedin.com/in/saiduzzaman-mst](https://www.linkedin.com/in/saiduzzaman-mst)
 - 📍 **Location:** Rolla, Missouri, USA
 
 ## 💡 Fun Facts
@@ -72,4 +72,4 @@ I am currently conducting a comprehensive evaluation of the channel routing modu
 
 ---
 
-**"Advancing hydrological science through computational innovation"**
+**"Thousands have lived without love, not one without water"**
