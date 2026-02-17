@@ -10,7 +10,7 @@ I'm a **Graduate Research Assistant** in the Department of Civil, Architectural 
 
 ## 🔬 Research Interests
 
-- **Hydrological Modeling** - Distributed watershed modeling, rainfall-runoff processes
+- **Hydrologic Modeling** - Distributed modeling, rainfall-runoff processes
 - **Channel Routing** - hydrologic & hydraulic routing
 - **Data Assimilation** - Integration of observational data into channel routing module
 - **Flood Forecasting** - Real-time prediction systems, early warning systems
