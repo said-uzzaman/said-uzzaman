@@ -22,12 +22,16 @@ I'm a **Graduate Research Assistant** in the Department of Civil, Architectural 
 
 ### Comparative Assessment of the NWM Channel Routing Models for Enhanced Streamflow Data Assimilation
 
-I am currently conducting a comprehensive evaluation of the channel routing module (**T-Route: Tree-Based Channel Routing**) and implementing data assimilation within the diffusive wave method as part of the **NextGen Water Resources Modeling Framework**. I have developed significant modifications to T-Route.
+I am currently conducting a **comprehensive evaluation of the channel routing module (T-Route: Tree-Based Channel Routing)** and implementing **data assimilation within the diffusive wave method** as part of the **NextGen Water Resources Modeling Framework**.
 
-**Key Modifications:**
-- ✅ Implemented **flowpath-level lateral flow support** for fine-scale routing
-- ✅ Enhanced data assimilation capabilities with direct gage-to-flowpath mapping
-- ✅ Integrated with **NextGen in a Box** for containerized deployment
+**Research Focus:**
+- Modified the current routing structure of the channel routing module (T-Route) of the NextGen National Water Model (NWM)
+- Assessed the new hydraulic channel routing method (i.e., diffusive wave routing) included in T-Route, compared with the capabilities of the current operational routing method in the NWM (i.e., Muskingum–Cunge routing)
+- Implementing streamflow data assimilation (DA) in diffusive wave routing and demonstration of its operational capabilities using an extensive network of streamflow observations
+
+**Technical Modifications in T-Route:**
+-  Developed a **catchment file processing pipeline** using parallelized I/O with `joblib` to read `cat-*.csv` outputs directly from ngen, replacing the previous nexus-based lateral flow ingestion
+-  Redesigned **gage-to-segment mapping** by deriving the crosswalk directly from `flowpaths`, bypassing hydrosequence-based filtering to support flowpath-level DA
 
 **Impact:** Enables higher spatial resolution routing, improved accuracy in streamflow predictions, and better integration with NOAA's operational forecasting systems.
 
