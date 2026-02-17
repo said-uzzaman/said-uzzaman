@@ -11,7 +11,7 @@ I'm a **Graduate Research Assistant** in the Department of Civil, Architectural 
 ## 🔬 Research Interests
 
 - **Hydrological Modeling** - Distributed watershed modeling, rainfall-runoff processes
-- **Channel Routing** - Channel routing algorithms, flowpath-level hydraulics
+- **Channel Routing** - hydrologic & hydraulic routing
 - **Data Assimilation** - Integration of observational data into hydrological models
 - **Model Calibration & Optimization** - Parameter estimation, uncertainty quantification
 - **Flood Forecasting** - Real-time prediction systems, early warning systems
@@ -71,8 +71,6 @@ I am currently conducting a **comprehensive evaluation of the channel routing mo
 ## 💡 Fun Facts
 
 - 🌊 I'm fascinated by the complexity of water systems and how computational models can help us understand them
-- 📊 I believe good visualization is key to understanding complex hydrological processes
-- 🌍 Passionate about using technology to address global water challenges
 
 ---
 
