@@ -2,9 +2,9 @@
 
 ## 🎓 About Me
 
-I'm a **Graduate Research Assistant** in the Department of Civil, Architectural and Environmental Engineering at **Missouri University of Science & Technology**, working under the guidance of **Dr. Bong-Chul Seo**. My research focuses on advancing hydrological modeling frameworks, particularly in the areas of distributed hydrological modeling, channel routing, and streamflow assimilation.
+I'm a **Graduate Research Assistant** in the Department of Civil, Architectural and Environmental Engineering at **Missouri University of Science & Technology**, working under the guidance of **Dr. Bong-Chul Seo**. My research focuses on advancing hydrological modeling frameworks, particularly in the areas of channel routing, and streamflow assimilation.
 
-🔬 **Currently seeking PhD opportunities** in Water Resources Engineering, Hydrological Modeling, and Channel Routing.
+🔬 **Currently seeking PhD opportunities** in Water Resources Engineering, Hydrologic & hydraulic Modeling, and Channel Routing.
 
 ---
 
@@ -12,8 +12,7 @@ I'm a **Graduate Research Assistant** in the Department of Civil, Architectural 
 
 - **Hydrological Modeling** - Distributed watershed modeling, rainfall-runoff processes
 - **Channel Routing** - hydrologic & hydraulic routing
-- **Data Assimilation** - Integration of observational data into hydrological models
-- **Model Calibration & Optimization** - Parameter estimation, uncertainty quantification
+- **Data Assimilation** - Integration of observational data into channel routing module
 - **Flood Forecasting** - Real-time prediction systems, early warning systems
 
 ---
