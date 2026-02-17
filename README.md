@@ -32,7 +32,6 @@ I am currently conducting a **comprehensive evaluation of the channel routing mo
 -  Developed a **catchment file processing pipeline** using parallelized I/O with `joblib` to read `cat-*.csv` outputs directly from ngen, replacing the previous nexus-based lateral flow ingestion
 -  Redesigned **gage-to-segment mapping** by deriving the crosswalk directly from `flowpaths`, bypassing hydrosequence-based filtering to support flowpath-level DA
 
-**Impact:** Enables higher spatial resolution routing, improved accuracy in streamflow predictions, and better integration with NOAA's operational forecasting systems.
 
 📄 **Related Repositories:**
 - [Modified T-Route](https://github.com/said-uzzaman/t-route-MST.git)
