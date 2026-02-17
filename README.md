@@ -1,16 +1,213 @@
-## Hi there 👋
+# Hi there, I'm Md Saiduzzaman 👋
 
-<!--
-**said-uzzaman/said-uzzaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+I'm a **Graduate Research Assistant** in the Department of Civil, Architectural and Environmental Engineering at **Missouri University of Science & Technology**, working under the guidance of **Dr. Bong-Chul Seo**. My research focuses on advancing hydrological modeling frameworks, particularly in the areas of distributed hydrological modeling, streamflow routing, and model calibration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 **Currently seeking PhD opportunities** in Water Resources Engineering, Hydrological Modeling, and Computational Hydrology.
+
+---
+
+## 🔬 Research Interests
+
+- **Hydrological Modeling** - Distributed watershed modeling, rainfall-runoff processes
+- **Streamflow Routing** - Channel routing algorithms, flowpath-level hydraulics
+- **Data Assimilation** - Integration of observational data into hydrological models
+- **Model Calibration & Optimization** - Parameter estimation, uncertainty quantification
+- **Computational Hydrology** - High-performance computing, parallel processing
+- **Flood Forecasting** - Real-time prediction systems, early warning systems
+
+---
+
+## 💼 Current Research
+
+### Modified T-Route for NextGen Water Resources Framework
+
+I've developed significant modifications to the **T-Route (Tree-Based Channel Routing)** model as part of the **NextGen Water Resources Modeling Framework**:
+
+**Key Contributions:**
+- ✅ Implemented **flowpath-level lateral flow support** for fine-scale routing
+- ✅ Developed **catchment file processing algorithms** for real-time model coupling
+- ✅ Enhanced **data assimilation capabilities** with direct gage-to-flowpath mapping
+- ✅ Created **unit scaling functions** for proper flow conversion across catchments
+- ✅ Integrated with **NextGen in a Box** for containerized deployment
+
+**Impact:** Enables higher spatial resolution routing, improved accuracy in streamflow predictions, and better integration with NOAA's operational forecasting systems.
+
+📄 **Related Repositories:**
+- [Modified T-Route](https://github.com/MSTHydroLab/T-Route)
+- [Modified ngen](https://github.com/MSTHydroLab/ngen)
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Fortran](https://img.shields.io/badge/-Fortran-734F96?style=flat&logo=fortran&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### Hydrological Modeling Tools
+- **T-Route** - Tree-based channel routing
+- **ngen** - NextGen Water Resources Modeling Framework
+- **HEC-HMS / HEC-RAS** - Hydrologic and hydraulic modeling
+- **SWAT** - Soil and Water Assessment Tool
+- **WRF-Hydro** - Weather Research and Forecasting Hydro model
+
+### Data Science & Analysis
+- **Pandas, NumPy, SciPy** - Data manipulation and scientific computing
+- **Matplotlib, Seaborn** - Data visualization
+- **SPOTPY** - Statistical Parameter Optimization Tool
+- **Xarray, NetCDF** - Multi-dimensional data handling
+- **GeoPandas, QGIS** - Geospatial analysis
+
+### Software Development
+- **Git & GitHub** - Version control and collaboration
+- **Docker** - Containerization and deployment
+- **CI/CD** - Automated testing and deployment
+- **Linux/Unix** - System administration and scripting
+
+### High-Performance Computing
+- **Parallel Processing** - MPI, OpenMP
+- **Job Scheduling** - SLURM, PBS
+- **Cluster Computing** - Experience with HPC systems
+
+---
+
+## 📊 GitHub Statistics
+
+![Saiduzzaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 📚 Selected Projects
+
+### 1. **Flowpath-Level Routing in T-Route**
+Enhanced the T-Route model to process individual catchment outputs, enabling routing at every flowpath in a watershed.
+- 🔗 [Repository](https://github.com/MSTHydroLab/T-Route)
+- 📝 [Documentation](link-to-modifications-doc)
+
+### 2. **Real-Time Model Coupling for NextGen**
+Modified ngen output handling to enable immediate data flushing for coupled hydrological-routing simulations.
+- 🔗 [Repository](https://github.com/MSTHydroLab/ngen)
+- 📝 [Documentation](link-to-readme)
+
+### 3. **Automated Calibration Workflows**
+Developed workflows for calibrating distributed hydrological models using SPOTPY and ngen-cal.
+- 🔗 [Repository](link-to-repo)
+- 📝 [Tutorial](link-to-tutorial)
+
+---
+
+## 📖 Publications & Presentations
+
+### Journal Articles
+- *[Your publications will go here]*
+
+### Conference Presentations
+- *[Your presentations will go here]*
+
+### Technical Reports
+- **T-Route Modifications Documentation** - Flowpath-level lateral flow support
+- **NextGen in a Box Setup Guide** - Local deployment and calibration workflows
+
+---
+
+## 🎯 PhD Application Focus
+
+I am seeking PhD opportunities in:
+
+**Research Areas:**
+- Advanced hydrological modeling and forecasting
+- Data assimilation in environmental systems
+- Computational methods for water resources
+- Climate change impacts on water resources
+- Flood risk assessment and management
+
+**Ideal Program Characteristics:**
+- Strong focus on computational hydrology
+- Access to high-performance computing facilities
+- Collaborative research environment
+- Interdisciplinary approach to water resources challenges
+- Opportunities for field work and data collection
+
+**Career Goals:**
+- Contribute to the advancement of operational hydrological forecasting systems
+- Develop innovative solutions for water resources management
+- Bridge the gap between research and practical applications
+- Pursue an academic or research career in hydrology
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🎓 Graduate Research Assistant, Missouri S&T
+- 💻 Contributor to NOAA's NextGen Water Resources Framework
+- 🔬 Developer of enhanced T-Route routing capabilities
+- 📊 Successfully integrated flowpath-level modeling into operational frameworks
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 **Email:** [your.email@university.edu](mailto:your.email@university.edu)
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)
+- 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- 📍 **Location:** Rolla, Missouri, USA
+
+---
+
+## 🤝 Collaboration & Open Source
+
+I'm passionate about **open-source development** and believe in making research tools accessible to the broader scientific community. I welcome:
+
+- 🔬 **Research Collaborations** - Joint projects in hydrology and water resources
+- 💻 **Code Contributions** - Pull requests and improvements to my repositories
+- 📚 **Knowledge Sharing** - Questions, discussions, and feedback
+- 🎓 **Mentorship Opportunities** - Learning from experienced researchers
+
+Feel free to explore my repositories, open issues, or reach out for collaboration!
+
+---
+
+## 📝 Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- GitHub activity will be automatically updated here -->
+<!--END_SECTION:activity-->
+
+---
+
+## 🌟 Featured Repositories
+
+[![T-Route](https://github-readme-stats.vercel.app/api/pin/?username=MSTHydroLab&repo=T-Route&theme=radical)](https://github.com/MSTHydroLab/T-Route)
+
+[![ngen](https://github-readme-stats.vercel.app/api/pin/?username=MSTHydroLab&repo=ngen&theme=radical)](https://github.com/MSTHydroLab/ngen)
+
+---
+
+## 💡 Fun Facts
+
+- 🌊 I'm fascinated by the complexity of water systems and how computational models can help us understand them
+- 🖥️ I enjoy optimizing code for performance - every millisecond counts in real-time forecasting!
+- 📊 I believe good visualization is key to understanding complex hydrological processes
+- 🌍 Passionate about using technology to address global water challenges
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Md Saiduzzaman</a></i>
+</p>
+
+---
+
+**"Advancing hydrological science through computational innovation"**
