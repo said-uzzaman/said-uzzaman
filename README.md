@@ -26,7 +26,7 @@ I am currently conducting a **comprehensive evaluation of the channel routing mo
 **Research Focus:**
 - Modified the current routing structure of the channel routing module (T-Route) of the NextGen National Water Model (NWM)
 - Assessed the new hydraulic channel routing method (i.e., diffusive wave routing) included in T-Route, compared with the capabilities of the current operational routing method in the NWM (i.e., Muskingum–Cunge routing)
-- Implementing streamflow data assimilation (DA) in diffusive wave routing and demonstration of its operational capabilities using an extensive network of streamflow observations
+- Implementing streamflow data assimilation in diffusive wave routing and demonstration of its operational capabilities using an extensive network of streamflow observations
 
 **Technical Modifications in T-Route:**
 -  Developed a **catchment file processing pipeline** using parallelized I/O with `joblib` to read `cat-*.csv` outputs directly from ngen, replacing the previous nexus-based lateral flow ingestion
